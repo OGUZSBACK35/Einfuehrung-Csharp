@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\bin\Debug\net10.0\_03_03_CompsarsionOpt.exe
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\bin\Debug\net10.0\_03_03_CompsarsionOpt.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\bin\Debug\net10.0\_03_03_CompsarsionOpt.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\bin\Debug\net10.0\_03_03_CompsarsionOpt.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\bin\Debug\net10.0\_03_03_CompsarsionOpt.pdb
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\obj\Debug\net10.0\_03_03_CompsarsionOpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\obj\Debug\net10.0\_03_03_CompsarsionOpt.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\obj\Debug\net10.0\_03_03_CompsarsionOpt.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\obj\Debug\net10.0\_03_03_CompsarsionOpt.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\obj\Debug\net10.0\_03_03_CompsarsionOpt.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\obj\Debug\net10.0\refint\_03_03_CompsarsionOpt.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\obj\Debug\net10.0\_03_03_CompsarsionOpt.pdb
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\obj\Debug\net10.0\_03_03_CompsarsionOpt.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\obj\Debug\net10.0\ref\_03_03_CompsarsionOpt.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_03_CompsarsionOpt\obj\Debug\net10.0\_03_03_C.A36FE02D.Up2Date

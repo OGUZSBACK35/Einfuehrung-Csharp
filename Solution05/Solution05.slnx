@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="_05_01_Array/_05_01_Array.csproj" />
+  <Project Path="_05_02_Foreach/_05_02_Foreach.csproj" Id="a938ac9e-d11f-4f39-a277-0ed253dfac8e" />
+  <Project Path="_05_03_While_Loop/_05_03_While_Loop.csproj" />
+  <Project Path="_05_04_doWhileLoop/_05_04_doWhileLoop.csproj" />
+  <Project Path="_05_05StudentApp/_05_05StudentApp.csproj" />
+</Solution>

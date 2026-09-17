@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\bin\Debug\net10.0\_03_05_ExamPass.exe
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\bin\Debug\net10.0\_03_05_ExamPass.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\bin\Debug\net10.0\_03_05_ExamPass.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\bin\Debug\net10.0\_03_05_ExamPass.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\bin\Debug\net10.0\_03_05_ExamPass.pdb
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\obj\Debug\net10.0\_03_05_ExamPass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\obj\Debug\net10.0\_03_05_ExamPass.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\obj\Debug\net10.0\_03_05_ExamPass.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\obj\Debug\net10.0\_03_05_ExamPass.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\obj\Debug\net10.0\_03_05_ExamPass.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\obj\Debug\net10.0\refint\_03_05_ExamPass.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\obj\Debug\net10.0\_03_05_ExamPass.pdb
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\obj\Debug\net10.0\_03_05_ExamPass.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\obj\Debug\net10.0\ref\_03_05_ExamPass.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_05_ExamPass\obj\Debug\net10.0\_03_05_E.8E443117.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\bin\Debug\net10.0\_04_02_SignedAndUnsigned.exe
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\bin\Debug\net10.0\_04_02_SignedAndUnsigned.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\bin\Debug\net10.0\_04_02_SignedAndUnsigned.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\bin\Debug\net10.0\_04_02_SignedAndUnsigned.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\bin\Debug\net10.0\_04_02_SignedAndUnsigned.pdb
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\obj\Debug\net10.0\_04_02_SignedAndUnsigned.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\obj\Debug\net10.0\_04_02_SignedAndUnsigned.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\obj\Debug\net10.0\_04_02_SignedAndUnsigned.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\obj\Debug\net10.0\_04_02_SignedAndUnsigned.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\obj\Debug\net10.0\_04_02_SignedAndUnsigned.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\obj\Debug\net10.0\refint\_04_02_SignedAndUnsigned.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\obj\Debug\net10.0\_04_02_SignedAndUnsigned.pdb
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\obj\Debug\net10.0\_04_02_SignedAndUnsigned.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\obj\Debug\net10.0\ref\_04_02_SignedAndUnsigned.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_02_SignedAndUnsigned\obj\Debug\net10.0\_04_02_S.2A177878.Up2Date

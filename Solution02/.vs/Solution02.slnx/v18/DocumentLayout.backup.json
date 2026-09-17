@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78721A6E-2FA9-4FED-9A46-01C930E12154}|_02_04_NullAndNullable\\_02_04_NullAndNullable.csproj|c:\\users\\anonymous\\desktop\\c#\\solution02\\_02_04_nullandnullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78721A6E-2FA9-4FED-9A46-01C930E12154}|_02_04_NullAndNullable\\_02_04_NullAndNullable.csproj|solutionrelative:_02_04_nullandnullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C913A75-5124-4180-A5F2-DABC0919E010}|_02_03_IO\\_02_03_IO.csproj|c:\\users\\anonymous\\desktop\\c#\\solution02\\_02_03_io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C913A75-5124-4180-A5F2-DABC0919E010}|_02_03_IO\\_02_03_IO.csproj|solutionrelative:_02_03_io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution02\\_02_04_NullAndNullable\\Program.cs",
+              "RelativeDocumentMoniker": "_02_04_NullAndNullable\\Program.cs",
+              "ToolTip": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution02\\_02_04_NullAndNullable\\Program.cs*",
+              "RelativeToolTip": "_02_04_NullAndNullable\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T13:40:59.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution02\\_02_03_IO\\Program.cs",
+              "RelativeDocumentMoniker": "_02_03_IO\\Program.cs",
+              "ToolTip": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution02\\_02_03_IO\\Program.cs",
+              "RelativeToolTip": "_02_03_IO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-08T13:17:35.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

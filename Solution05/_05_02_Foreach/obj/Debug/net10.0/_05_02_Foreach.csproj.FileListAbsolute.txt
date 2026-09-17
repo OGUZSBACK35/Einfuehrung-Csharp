@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\bin\Debug\net10.0\_05_02_Foreach.exe
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\bin\Debug\net10.0\_05_02_Foreach.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\bin\Debug\net10.0\_05_02_Foreach.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\bin\Debug\net10.0\_05_02_Foreach.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\bin\Debug\net10.0\_05_02_Foreach.pdb
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\obj\Debug\net10.0\_05_02_Foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\obj\Debug\net10.0\_05_02_Foreach.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\obj\Debug\net10.0\_05_02_Foreach.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\obj\Debug\net10.0\_05_02_Foreach.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\obj\Debug\net10.0\_05_02_Foreach.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\obj\Debug\net10.0\refint\_05_02_Foreach.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\obj\Debug\net10.0\_05_02_Foreach.pdb
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\obj\Debug\net10.0\_05_02_Foreach.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\obj\Debug\net10.0\ref\_05_02_Foreach.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_02_Foreach\obj\Debug\net10.0\_05_02_F.71256232.Up2Date

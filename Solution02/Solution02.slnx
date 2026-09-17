@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="_02_02_Variable/_02_02_Variable.csproj" Id="e6521ecd-e5fa-4eeb-a9e2-d703d17163b4" />
+  <Project Path="_02_03_IO/_02_03_IO.csproj" Id="2c913a75-5124-4180-a5f2-dabc0919e010" />
+  <Project Path="_02_04_NullAndNullable/_02_04_NullAndNullable.csproj" Id="78721a6e-2fa9-4fed-9a46-01c930e12154" />
+</Solution>

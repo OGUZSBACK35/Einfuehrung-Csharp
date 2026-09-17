@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\bin\Debug\net10.0\_05_01_Array.exe
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\bin\Debug\net10.0\_05_01_Array.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\bin\Debug\net10.0\_05_01_Array.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\bin\Debug\net10.0\_05_01_Array.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\bin\Debug\net10.0\_05_01_Array.pdb
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\obj\Debug\net10.0\_05_01_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\obj\Debug\net10.0\_05_01_Array.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\obj\Debug\net10.0\_05_01_Array.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\obj\Debug\net10.0\_05_01_Array.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\obj\Debug\net10.0\_05_01_Array.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\obj\Debug\net10.0\refint\_05_01_Array.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\obj\Debug\net10.0\_05_01_Array.pdb
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\obj\Debug\net10.0\_05_01_Array.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\obj\Debug\net10.0\ref\_05_01_Array.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_01_Array\obj\Debug\net10.0\_05_01_A.E373DB83.Up2Date

@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\bin\Debug\net10.0\_04_05_BoxingAndUnboxing.exe
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\bin\Debug\net10.0\_04_05_BoxingAndUnboxing.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\bin\Debug\net10.0\_04_05_BoxingAndUnboxing.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\bin\Debug\net10.0\_04_05_BoxingAndUnboxing.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\bin\Debug\net10.0\_04_05_BoxingAndUnboxing.pdb
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\obj\Debug\net10.0\_04_05_BoxingAndUnboxing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\obj\Debug\net10.0\_04_05_BoxingAndUnboxing.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\obj\Debug\net10.0\_04_05_BoxingAndUnboxing.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\obj\Debug\net10.0\_04_05_BoxingAndUnboxing.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\obj\Debug\net10.0\_04_05_BoxingAndUnboxing.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\obj\Debug\net10.0\refint\_04_05_BoxingAndUnboxing.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\obj\Debug\net10.0\_04_05_BoxingAndUnboxing.pdb
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\obj\Debug\net10.0\_04_05_BoxingAndUnboxing.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\obj\Debug\net10.0\ref\_04_05_BoxingAndUnboxing.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_05_BoxingAndUnboxing\obj\Debug\net10.0\_04_05_B.DB020B0C.Up2Date

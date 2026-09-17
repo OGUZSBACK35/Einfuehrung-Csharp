@@ -1,0 +1,14 @@
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\bin\Debug\net10.0\_02_02_Variable.exe
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\bin\Debug\net10.0\_02_02_Variable.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\bin\Debug\net10.0\_02_02_Variable.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\bin\Debug\net10.0\_02_02_Variable.dll
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\bin\Debug\net10.0\_02_02_Variable.pdb
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\obj\Debug\net10.0\_02_02_Variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\obj\Debug\net10.0\_02_02_Variable.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\obj\Debug\net10.0\_02_02_Variable.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\obj\Debug\net10.0\_02_02_Variable.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\obj\Debug\net10.0\_02_02_Variable.dll
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\obj\Debug\net10.0\refint\_02_02_Variable.dll
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\obj\Debug\net10.0\_02_02_Variable.pdb
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\obj\Debug\net10.0\_02_02_Variable.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_02_Variable\obj\Debug\net10.0\ref\_02_02_Variable.dll

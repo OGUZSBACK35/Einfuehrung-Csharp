@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="_04_01_BuiltinType/_04_01_BuiltinType.csproj" />
+  <Project Path="_04_02_SignedAndUnsigned/_04_02_SignedAndUnsigned.csproj" />
+  <Project Path="_04_03_ValueAndRefType/_04_03_ValueAndRefType.csproj" />
+  <Project Path="_04_05_BoxingAndUnboxing/_04_04_BoxingAndUnboxing.csproj" />
+</Solution>

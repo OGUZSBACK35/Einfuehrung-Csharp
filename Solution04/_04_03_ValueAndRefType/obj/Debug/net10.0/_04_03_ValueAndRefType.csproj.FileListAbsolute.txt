@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\bin\Debug\net10.0\_04_03_ValueAndRefType.exe
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\bin\Debug\net10.0\_04_03_ValueAndRefType.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\bin\Debug\net10.0\_04_03_ValueAndRefType.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\bin\Debug\net10.0\_04_03_ValueAndRefType.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\bin\Debug\net10.0\_04_03_ValueAndRefType.pdb
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\obj\Debug\net10.0\_04_03_ValueAndRefType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\obj\Debug\net10.0\_04_03_ValueAndRefType.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\obj\Debug\net10.0\_04_03_ValueAndRefType.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\obj\Debug\net10.0\_04_03_ValueAndRefType.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\obj\Debug\net10.0\_04_03_ValueAndRefType.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\obj\Debug\net10.0\refint\_04_03_ValueAndRefType.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\obj\Debug\net10.0\_04_03_ValueAndRefType.pdb
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\obj\Debug\net10.0\_04_03_ValueAndRefType.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\obj\Debug\net10.0\ref\_04_03_ValueAndRefType.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_03_ValueAndRefType\obj\Debug\net10.0\_04_03_V.5BEE9B18.Up2Date

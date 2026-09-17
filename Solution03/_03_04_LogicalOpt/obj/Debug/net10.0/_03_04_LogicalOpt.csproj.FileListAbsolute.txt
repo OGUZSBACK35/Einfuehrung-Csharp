@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\bin\Debug\net10.0\_03_04_LogicalOpt.exe
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\bin\Debug\net10.0\_03_04_LogicalOpt.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\bin\Debug\net10.0\_03_04_LogicalOpt.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\bin\Debug\net10.0\_03_04_LogicalOpt.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\bin\Debug\net10.0\_03_04_LogicalOpt.pdb
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\obj\Debug\net10.0\_03_04_LogicalOpt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\obj\Debug\net10.0\_03_04_LogicalOpt.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\obj\Debug\net10.0\_03_04_LogicalOpt.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\obj\Debug\net10.0\_03_04_LogicalOpt.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\obj\Debug\net10.0\_03_04_LogicalOpt.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\obj\Debug\net10.0\refint\_03_04_LogicalOpt.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\obj\Debug\net10.0\_03_04_LogicalOpt.pdb
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\obj\Debug\net10.0\_03_04_LogicalOpt.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\obj\Debug\net10.0\ref\_03_04_LogicalOpt.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_04_LogicalOpt\obj\Debug\net10.0\_03_04_L.E121DA9B.Up2Date

@@ -1,0 +1,14 @@
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\bin\Debug\net10.0\_05_04_doWhileLoop.exe
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\bin\Debug\net10.0\_05_04_doWhileLoop.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\bin\Debug\net10.0\_05_04_doWhileLoop.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\bin\Debug\net10.0\_05_04_doWhileLoop.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\bin\Debug\net10.0\_05_04_doWhileLoop.pdb
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\obj\Debug\net10.0\_05_04_doWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\obj\Debug\net10.0\_05_04_doWhileLoop.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\obj\Debug\net10.0\_05_04_doWhileLoop.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\obj\Debug\net10.0\_05_04_doWhileLoop.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\obj\Debug\net10.0\_05_04_doWhileLoop.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\obj\Debug\net10.0\refint\_05_04_doWhileLoop.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\obj\Debug\net10.0\_05_04_doWhileLoop.pdb
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\obj\Debug\net10.0\_05_04_doWhileLoop.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_04_doWhileLoop\obj\Debug\net10.0\ref\_05_04_doWhileLoop.dll

@@ -1,0 +1,14 @@
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\obj\Debug\net10.0\_05_03_While_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\obj\Debug\net10.0\_05_03_While_Loop.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\obj\Debug\net10.0\_05_03_While_Loop.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\obj\Debug\net10.0\_05_03_While_Loop.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\bin\Debug\net10.0\_05_03_While_Loop.exe
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\bin\Debug\net10.0\_05_03_While_Loop.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\bin\Debug\net10.0\_05_03_While_Loop.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\bin\Debug\net10.0\_05_03_While_Loop.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\bin\Debug\net10.0\_05_03_While_Loop.pdb
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\obj\Debug\net10.0\_05_03_While_Loop.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\obj\Debug\net10.0\refint\_05_03_While_Loop.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\obj\Debug\net10.0\_05_03_While_Loop.pdb
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\obj\Debug\net10.0\_05_03_While_Loop.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_03_While_Loop\obj\Debug\net10.0\ref\_05_03_While_Loop.dll

@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\bin\Debug\net10.0\_04_01_BuiltinType.exe
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\bin\Debug\net10.0\_04_01_BuiltinType.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\bin\Debug\net10.0\_04_01_BuiltinType.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\bin\Debug\net10.0\_04_01_BuiltinType.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\bin\Debug\net10.0\_04_01_BuiltinType.pdb
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\obj\Debug\net10.0\_04_01_BuiltinType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\obj\Debug\net10.0\_04_01_BuiltinType.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\obj\Debug\net10.0\_04_01_BuiltinType.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\obj\Debug\net10.0\_04_01_BuiltinType.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\obj\Debug\net10.0\_04_01_BuiltinType.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\obj\Debug\net10.0\refint\_04_01_BuiltinType.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\obj\Debug\net10.0\_04_01_BuiltinType.pdb
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\obj\Debug\net10.0\_04_01_BuiltinType.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\obj\Debug\net10.0\ref\_04_01_BuiltinType.dll
+C:\Users\Anonymous\Desktop\C#\Solution04\_04_01_BuiltinType\obj\Debug\net10.0\_04_01_B.F91AEC45.Up2Date

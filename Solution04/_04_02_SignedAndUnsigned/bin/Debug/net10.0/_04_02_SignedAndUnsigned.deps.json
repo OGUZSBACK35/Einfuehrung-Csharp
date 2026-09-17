@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "_04_02_SignedAndUnsigned/1.0.0": {
+        "runtime": {
+          "_04_02_SignedAndUnsigned.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "_04_02_SignedAndUnsigned/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

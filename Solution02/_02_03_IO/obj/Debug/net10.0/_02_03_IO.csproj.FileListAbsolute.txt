@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\bin\Debug\net10.0\_02_03_IO.exe
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\bin\Debug\net10.0\_02_03_IO.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\bin\Debug\net10.0\_02_03_IO.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\bin\Debug\net10.0\_02_03_IO.dll
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\bin\Debug\net10.0\_02_03_IO.pdb
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\obj\Debug\net10.0\_02_03_IO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\obj\Debug\net10.0\_02_03_IO.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\obj\Debug\net10.0\_02_03_IO.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\obj\Debug\net10.0\_02_03_IO.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\obj\Debug\net10.0\_02_03_IO.dll
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\obj\Debug\net10.0\refint\_02_03_IO.dll
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\obj\Debug\net10.0\_02_03_IO.pdb
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\obj\Debug\net10.0\_02_03_IO.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\obj\Debug\net10.0\ref\_02_03_IO.dll
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_03_IO\obj\Debug\net10.0\_02_03_IO.csproj.Up2Date

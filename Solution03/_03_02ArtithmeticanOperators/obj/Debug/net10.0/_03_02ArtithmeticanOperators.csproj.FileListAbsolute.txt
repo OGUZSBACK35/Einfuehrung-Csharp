@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\bin\Debug\net10.0\_03_02ArtithmeticanOperators.exe
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\bin\Debug\net10.0\_03_02ArtithmeticanOperators.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\bin\Debug\net10.0\_03_02ArtithmeticanOperators.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\bin\Debug\net10.0\_03_02ArtithmeticanOperators.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\bin\Debug\net10.0\_03_02ArtithmeticanOperators.pdb
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\obj\Debug\net10.0\_03_02ArtithmeticanOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\obj\Debug\net10.0\_03_02ArtithmeticanOperators.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\obj\Debug\net10.0\_03_02ArtithmeticanOperators.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\obj\Debug\net10.0\_03_02ArtithmeticanOperators.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\obj\Debug\net10.0\_03_02ArtithmeticanOperators.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\obj\Debug\net10.0\refint\_03_02ArtithmeticanOperators.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\obj\Debug\net10.0\_03_02ArtithmeticanOperators.pdb
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\obj\Debug\net10.0\_03_02ArtithmeticanOperators.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\obj\Debug\net10.0\ref\_03_02ArtithmeticanOperators.dll
+C:\Users\Anonymous\Desktop\C#\Solution03\_03_02ArtithmeticanOperators\obj\Debug\net10.0\_03_02Ar.A8109B5F.Up2Date

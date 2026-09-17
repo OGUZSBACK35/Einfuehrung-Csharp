@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="_03_01_Variable/_03_01_Variable.csproj" />
+  <Project Path="_03_02ArtithmeticanOperators/_03_02ArtithmeticanOperators.csproj" />
+  <Project Path="_03_03_CompsarsionOpt/_03_03_CompsarsionOpt.csproj" />
+  <Project Path="_03_04_LogicalOpt/_03_04_LogicalOpt.csproj" />
+  <Project Path="_03_05_ExamPass/_03_05_ExamPass.csproj" />
+</Solution>

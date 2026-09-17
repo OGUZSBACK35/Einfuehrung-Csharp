@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C65DACF1-18D4-FF58-67CC-B5103F36EA1C}|_05_04_doWhileLoop\\_05_04_doWhileLoop.csproj|c:\\users\\anonymous\\desktop\\c#\\solution05\\_05_04_dowhileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C65DACF1-18D4-FF58-67CC-B5103F36EA1C}|_05_04_doWhileLoop\\_05_04_doWhileLoop.csproj|solutionrelative:_05_04_dowhileloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41CCD8B2-7E1B-EFF3-6BB8-66D4433D897B}|_05_03_While_Loop\\_05_03_While_Loop.csproj|c:\\users\\anonymous\\desktop\\c#\\solution05\\_05_03_while_loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41CCD8B2-7E1B-EFF3-6BB8-66D4433D897B}|_05_03_While_Loop\\_05_03_While_Loop.csproj|solutionrelative:_05_03_while_loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 140,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution05\\_05_04_doWhileLoop\\Program.cs",
+              "RelativeDocumentMoniker": "_05_04_doWhileLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution05\\_05_04_doWhileLoop\\Program.cs",
+              "RelativeToolTip": "_05_04_doWhileLoop\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T10:25:36.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution05\\_05_03_While_Loop\\Program.cs",
+              "RelativeDocumentMoniker": "_05_03_While_Loop\\Program.cs",
+              "ToolTip": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution05\\_05_03_While_Loop\\Program.cs",
+              "RelativeToolTip": "_05_03_While_Loop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T09:41:11.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

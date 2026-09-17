@@ -1,0 +1,14 @@
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\bin\Debug\net10.0\_02_01_Hello_World.exe
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\bin\Debug\net10.0\_02_01_Hello_World.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\bin\Debug\net10.0\_02_01_Hello_World.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\bin\Debug\net10.0\_02_01_Hello_World.dll
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\bin\Debug\net10.0\_02_01_Hello_World.pdb
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\obj\Debug\net10.0\_02_01_Hello_World.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\obj\Debug\net10.0\_02_01_Hello_World.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\obj\Debug\net10.0\_02_01_Hello_World.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\obj\Debug\net10.0\_02_01_Hello_World.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\obj\Debug\net10.0\_02_01_Hello_World.dll
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\obj\Debug\net10.0\refint\_02_01_Hello_World.dll
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\obj\Debug\net10.0\_02_01_Hello_World.pdb
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\obj\Debug\net10.0\_02_01_Hello_World.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution02\_02_01_Hello_World\obj\Debug\net10.0\ref\_02_01_Hello_World.dll
