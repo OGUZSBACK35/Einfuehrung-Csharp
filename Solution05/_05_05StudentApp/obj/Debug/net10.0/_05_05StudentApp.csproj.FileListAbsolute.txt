@@ -1,0 +1,15 @@
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\bin\Debug\net10.0\_05_05StudentApp.exe
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\bin\Debug\net10.0\_05_05StudentApp.deps.json
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\bin\Debug\net10.0\_05_05StudentApp.runtimeconfig.json
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\bin\Debug\net10.0\_05_05StudentApp.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\bin\Debug\net10.0\_05_05StudentApp.pdb
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\obj\Debug\net10.0\_05_05StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\obj\Debug\net10.0\_05_05StudentApp.AssemblyInfoInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\obj\Debug\net10.0\_05_05StudentApp.AssemblyInfo.cs
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\obj\Debug\net10.0\_05_05StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\obj\Debug\net10.0\_05_05StudentApp.sourcelink.json
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\obj\Debug\net10.0\_05_05StudentApp.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\obj\Debug\net10.0\refint\_05_05StudentApp.dll
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\obj\Debug\net10.0\_05_05StudentApp.pdb
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\obj\Debug\net10.0\_05_05StudentApp.genruntimeconfig.cache
+C:\Users\Anonymous\Desktop\C#\Solution05\_05_05StudentApp\obj\Debug\net10.0\ref\_05_05StudentApp.dll

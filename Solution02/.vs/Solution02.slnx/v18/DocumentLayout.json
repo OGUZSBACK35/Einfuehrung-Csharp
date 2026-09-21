@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{78721A6E-2FA9-4FED-9A46-01C930E12154}|_02_04_NullAndNullable\\_02_04_NullAndNullable.csproj|solutionrelative:_02_04_nullandnullable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{78721A6E-2FA9-4FED-9A46-01C930E12154}|_02_04_NullAndNullable\\_02_04_NullAndNullable.csproj|c:\\users\\anonymous\\desktop\\c#\\solution02\\_02_04_nullandnullable\\_02_04_nullandnullable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{78721A6E-2FA9-4FED-9A46-01C930E12154}|_02_04_NullAndNullable\\_02_04_NullAndNullable.csproj|solutionrelative:_02_04_nullandnullable\\_02_04_nullandnullable.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C913A75-5124-4180-A5F2-DABC0919E010}|_02_03_IO\\_02_03_IO.csproj|c:\\users\\anonymous\\desktop\\c#\\solution02\\_02_03_io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C913A75-5124-4180-A5F2-DABC0919E010}|_02_03_IO\\_02_03_IO.csproj|solutionrelative:_02_03_io\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -18,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_02_04_NullAndNullable",
+              "DocumentMoniker": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution02\\_02_04_NullAndNullable\\_02_04_NullAndNullable.csproj",
+              "RelativeDocumentMoniker": "_02_04_NullAndNullable\\_02_04_NullAndNullable.csproj",
+              "ToolTip": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution02\\_02_04_NullAndNullable\\_02_04_NullAndNullable.csproj",
+              "RelativeToolTip": "_02_04_NullAndNullable\\_02_04_NullAndNullable.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-21T07:07:15.861Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -35,7 +52,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Anonymous\\Desktop\\C#\\Solution02\\_02_03_IO\\Program.cs",
               "RelativeDocumentMoniker": "_02_03_IO\\Program.cs",
@@ -43,8 +60,17 @@
               "RelativeToolTip": "_02_03_IO\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-08T13:17:35.529Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-08T13:17:35.529Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             }
           ]
         }
