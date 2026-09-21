@@ -12,6 +12,29 @@ class Program
         double average = CalculateAverage(grades);
 
         (int minGrade, int maxGrade) = FindMinMax(grades);
+
+        // ortalamanin üzerinde olan notlarin sayisini bulma
+        int count = CountAboveAverage(grades, average);
+        Console.WriteLine($"Notlar: {string.Join(", ", grades)}");
+        Console.WriteLine($"Ortalama: {average:F2}");
+        Console.WriteLine($"Min Not: {minGrade}");
+        Console.WriteLine($"Max Not: {maxGrade}");
+        Console.WriteLine($"Ortalamanin Üzerindeki Notlarin Sayisi: {count}");
+        Console.ReadKey();
+    }
+
+    private static int CountAboveAverage(int[] grades, double average)
+    {
+        int count = 0;
+        int i = 0;
+        while (i < grades.Length)
+        {
+            if (grades[i] > average)
+            
+                count++;
+            i++;
+        }
+        return count;
     }
 
     private static (int minGrade, int maxGrade) FindMinMax(int[] grades)
